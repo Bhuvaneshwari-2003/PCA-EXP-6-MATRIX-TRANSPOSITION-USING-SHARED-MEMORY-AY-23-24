@@ -1,11 +1,8 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
-<h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
-  Implement Matrix transposition using GPU Shared memory.</h3>
+<h3>NAME: BHUVANESHWARI S
+<h3>REGISTER NO:212221240010
+<h3>EX. NO:6
+<h3>DATE:
 
 ## AIM:
 To perform Matrix Multiplication using Transposition using shared memory.
